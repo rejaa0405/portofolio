@@ -81,7 +81,7 @@ const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/rejaa0405", label: "GitHub Profile" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/reza-pahlefi-749446363/", label: "LinkedIn Profile" },
-  { icon: Instagram, link: "https://www.instagram.com/rezaph/?hl=id", label: "Instagram Profile" }
+  { icon: Instagram, link: "https://www.instagram.com/rezaapahlefii/?hl=id", label: "Instagram Profile" }
 ];
 
 const Home = () => {
@@ -158,7 +158,7 @@ const Home = () => {
             "sameAs": [
               "https://github.com/EkiZR",
               "https://www.linkedin.com/in/ekizr/",
-              "https://www.instagram.com/ekizr_/"
+              "https://www.instagram.com/rezaapahlefii/"
             ]
           }
         `}</script>

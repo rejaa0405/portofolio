@@ -151,7 +151,7 @@ const CommentForm = memo(({ onSubmit, isSubmitting, error }) => {
             </div>
 
             <div className="space-y-2" data-aos="fade-up" data-aos-duration="1400">
-                <label className="block text-sm font-medium text-white">
+                <label className="block text-sm font-medium text-whiContact.jsxte">
                     Profile Photo <span className="text-gray-400">(optional)</span>
                 </label>
                 <div className="flex items-center gap-4 p-4 bg-white/5 border border-white/10 rounded-xl">
